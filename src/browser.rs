@@ -8,7 +8,7 @@ use anyhow::Result;
 use std::path::{Path, PathBuf};
 
 // Replace with your real extension ID from chrome://extensions
-pub const EXTENSION_ID:  &str = "fifiakfedfodgfcoiljlmehcikgkhdgf";
+pub const EXTENSION_ID:  &str = "efdfoecbgnmpmmfchhnabejiknoejaeb";
 pub const CRX_FILENAME:  &str = "ydm_extension.crx";
 pub const CRX_VERSION:   &str = "1.0.0";
 
